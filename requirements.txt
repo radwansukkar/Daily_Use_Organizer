@@ -1,0 +1,6 @@
+psutil
+plyer
+matplotlib
+pandas
+pystray
+pillow

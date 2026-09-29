@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+Daily_Use_Organizer/
+*.venv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# User-specific data (should never be shared/committed)
+config.json
+usage_data.json
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
